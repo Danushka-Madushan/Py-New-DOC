@@ -8,10 +8,10 @@
 
 # How it Works?
 
-> on Command Prompt Type " Python New.py John.json " 
+> on Command Prompt Type " New.py John.json " 
 
 > Now You Can See John.json is Created in Your Currunt Working Directory
 
 > All You Have to do it repalce Your Document name and File Name Extension to Below Places
 
-###### EX : Usage : Python New.py {FileName.Extension}
+###### EX : Usage : New.py {FileName.Extension}
