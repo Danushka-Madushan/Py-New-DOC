@@ -4,7 +4,7 @@
 # --USAGE
 > Double Click on InstallScript.cmd and it Install New.py tp System32
 
-> After Copying Open Command Prompt That Folder You Want to Crate Your File
+> After Installing Open Command Prompt That Folder You Want to Crate Your File
 
 # How it Works?
 
