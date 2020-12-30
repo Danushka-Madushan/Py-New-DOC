@@ -3,7 +3,7 @@ import sys
 try:
 	X = sys.argv[1]
 except Exception:
-	print("\n$ Usage : Python New {FileName.Extension}")
+	print("\n$ Usage : New.py {FileName.Extension}")
 	sys.exit()
 	
 NEW_DOC = open(X, 'w')
