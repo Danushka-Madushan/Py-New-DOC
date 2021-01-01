@@ -8,7 +8,7 @@
 
 # How it Works?
 
-> on Command Prompt Type " New.py Main.json " 
+> After Installation open Command Prompt Type " New.py Main.json " 
 
 > Now You Can See Main.json is Created in Your Currunt Working Directory
 
