@@ -8,7 +8,7 @@
 
 # How it Works?
 
-> on Command Prompt Type " New.py John.json " 
+> on Command Prompt Type " New.py Main.json " 
 
 > Now You Can See John.json is Created in Your Currunt Working Directory
 
