@@ -10,7 +10,7 @@
 
 > on Command Prompt Type " New.py Main.json " 
 
-> Now You Can See John.json is Created in Your Currunt Working Directory
+> Now You Can See Main.json is Created in Your Currunt Working Directory
 
 > All You Have to do it repalce Your Document name and File Name Extension to Below Places
 
