@@ -2,7 +2,7 @@
 > ###### An Easy Script that Placed in system32, Make Any File Using that Script Via Command Prompt
 
 # --USAGE
-> Double Click on InstallScript.cmd and it Install New.py tp System32
+> Double Click on InstallScript.cmd and it Install New.py to System32
 
 > After Installing Open Command Prompt That Folder You Want to Create Your File
 
